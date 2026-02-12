@@ -15,7 +15,7 @@ Researcher working on RNA biology and functional genomics, combining molecular e
 ## Profiles
 
 ORCID: https://orcid.org/0000-0002-0161-886
-Google Scholar: https://scholar.google.com/citations?user=5V4qirwAAAAJ&hl=es&oi=ao
+Google Scholar: [https://scholar.google.com/citations?user=5V4qirwAAAAJ&hl=es&oi=ao](https://scholar.google.com/citations?hl=es&user=5V4qirwAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Repositories
 
