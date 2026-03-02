@@ -20,3 +20,8 @@ Google Scholar: [https://scholar.google.com/citations?user=5V4qirwAAAAJ&hl=es&oi
 ## Repositories
 
 This profile contains code, annotation files, and analysis resources related to ongoing research projects.
+
+### svtRNA Annotation
+Project developed within the Functional Genomics Section.
+Repository: https://github.com/functional-genomics-section/svtRNA-annotation
+My contributions: pipeline design, annotation curation, integration with RNA-seq datasets.
