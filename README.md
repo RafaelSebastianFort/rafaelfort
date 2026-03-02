@@ -24,4 +24,3 @@ This profile contains code, annotation files, and analysis resources related to 
 ### svtRNA Annotation
 Project developed within the Functional Genomics Section.
 Repository: https://github.com/functional-genomics-section/svtRNA-annotation
-My contributions: pipeline design, annotation curation, integration with RNA-seq datasets.
